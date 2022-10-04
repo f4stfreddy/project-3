@@ -10,3 +10,17 @@ Password will generate matching the above criteria and post in the text box insi
 
 Preview below
 
+
+![](assets/Capture.JPG)
+
+![](assets/Capture1.JPG)
+
+![](assets/Capture2.JPG)
+
+![](assets/Capture3.JPG)
+
+![](assets/Capture4.JPG)
+
+
+
+Deployed URL: https://f4stfreddy.github.io/project-3/ GitHub Repo URL: https://github.com/f4stfreddy/project-3
